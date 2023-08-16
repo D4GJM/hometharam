@@ -2,12 +2,12 @@ import React from "react";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Home.css";
+
 import image1 from "./img/intro-carousel/1.jpg";
 import image2 from "./img/intro-carousel/2.jpg";
 import image3 from "./img/intro-carousel/3.jpg";
 import image4 from "./img/intro-carousel/4.jpg";
 import image5 from "./img/intro-carousel/5.jpg";
-import imagefact from "./img/facts-img.png";
 import aboutmisson from "./img/about-mission.jpg";
 import aboutplan from "./img/about-plan.jpg";
 import aboutvision from "./img/about-vision.jpg";
@@ -34,19 +34,22 @@ export default function Home() {
               >
                 <div className="carousel-container">
                   <div className="carousel-content">
-                    <h2>We are professional</h2>
+                    <h1>IYKONS</h1>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <h2>Welcome to IYKONS</h2>
+                      IYKONS offers complete financial, IT, and business support
+                      solutions for companies and individuals across three
+                      continents. Our excellent team of specialists can help you
+                      and your business with your financial, IT, and business
+                      support needs. Our mission is to meet the needs of SMEs
+                      under one roof. We relish the challenges of finding the
+                      best solutions for you, and we thrive on making our
+                      clients happy. To find out more about our services, please
+                      do not hesitate to contact us online or at your nearest
+                      local office.
                     </p>
-                    <a
-                      href="#featured-services"
-                      className="btn-get-started scrollto"
-                    >
-                      Get Started
-                    </a>
+
+                  
                   </div>
                 </div>
               </div>
@@ -56,20 +59,21 @@ export default function Home() {
               >
                 <div className="carousel-container">
                   <div className="carousel-content">
-                    <h2>At vero eos et accusamus</h2>
+                    <h1>IYKONS</h1>
                     <p>
-                      Nam libero tempore, cum soluta nobis est eligendi optio
-                      cumque nihil impedit quo minus id quod maxime placeat
-                      facere possimus, omnis voluptas assumenda est, omnis dolor
-                      repellendus. Temporibus autem quibusdam et aut officiis
-                      debitis aut.
+                      <h2>Welcome to IYKONS</h2>
+                      IYKONS offers complete financial, IT, and business support
+                      solutions for companies and individuals across three
+                      continents. Our excellent team of specialists can help you
+                      and your business with your financial, IT, and business
+                      support needs. Our mission is to meet the needs of SMEs
+                      under one roof. We relish the challenges of finding the
+                      best solutions for you, and we thrive on making our
+                      clients happy. To find out more about our services, please
+                      do not hesitate to contact us online or at your nearest
+                      local office.
                     </p>
-                    <a
-                      href="#featured-services"
-                      className="btn-get-started scrollto"
-                    >
-                      Get Started
-                    </a>
+                  
                   </div>
                 </div>
               </div>
@@ -79,20 +83,21 @@ export default function Home() {
               >
                 <div className="carousel-container">
                   <div className="carousel-content">
-                    <h2>Temporibus autem quibusdam</h2>
+                    <h1>IYKONS</h1>
                     <p>
-                      Beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                      voluptatem quia voluptas sit aspernatur aut odit aut
-                      fugit, sed quia consequuntur magni dolores eos qui ratione
-                      voluptatem sequi nesciunt omnis iste natus error sit
-                      voluptatem accusantium.
+                      <h2>Welcome to IYKONS</h2>
+                      IYKONS offers complete financial, IT, and business support
+                      solutions for companies and individuals across three
+                      continents. Our excellent team of specialists can help you
+                      and your business with your financial, IT, and business
+                      support needs. Our mission is to meet the needs of SMEs
+                      under one roof. We relish the challenges of finding the
+                      best solutions for you, and we thrive on making our
+                      clients happy. To find out more about our services, please
+                      do not hesitate to contact us online or at your nearest
+                      local office.
                     </p>
-                    <a
-                      href="#featured-services"
-                      className="btn-get-started scrollto"
-                    >
-                      Get Started
-                    </a>
+                  
                   </div>
                 </div>
               </div>
@@ -102,20 +107,21 @@ export default function Home() {
               >
                 <div className="carousel-container">
                   <div className="carousel-content">
-                    <h2>Nam libero tempore</h2>
+                    <h1>IYKONS</h1>
                     <p>
-                      Neque porro quisquam est, qui dolorem ipsum quia dolor sit
-                      amet, consectetur, adipisci velit, sed quia non numquam
-                      eius modi tempora incidunt ut labore et dolore magnam
-                      aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-                      nostrum.
+                      <h2>Welcome to IYKONS</h2>
+                      IYKONS offers complete financial, IT, and business support
+                      solutions for companies and individuals across three
+                      continents. Our excellent team of specialists can help you
+                      and your business with your financial, IT, and business
+                      support needs. Our mission is to meet the needs of SMEs
+                      under one roof. We relish the challenges of finding the
+                      best solutions for you, and we thrive on making our
+                      clients happy. To find out more about our services, please
+                      do not hesitate to contact us online or at your nearest
+                      local office.
                     </p>
-                    <a
-                      href="#featured-services"
-                      className="btn-get-started scrollto"
-                    >
-                      Get Started
-                    </a>
+                  
                   </div>
                 </div>
               </div>
@@ -125,12 +131,19 @@ export default function Home() {
               >
                 <div className="carousel-container">
                   <div className="carousel-content">
-                    <h2>Magnam aliquam quaerat</h2>
+                    <h1>IYKONS</h1>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                      <h2>Welcome to IYKONS</h2>
+                      IYKONS offers complete financial, IT, and business support
+                      solutions for companies and individuals across three
+                      continents. Our excellent team of specialists can help you
+                      and your business with your financial, IT, and business
+                      support needs. Our mission is to meet the needs of SMEs
+                      under one roof. We relish the challenges of finding the
+                      best solutions for you, and we thrive on making our
+                      clients happy. To find out more about our services, please
+                      do not hesitate to contact us online or at your nearest
+                      local office.
                     </p>
                     <a
                       href="#featured-services"
@@ -176,15 +189,53 @@ Facts Section
       <section id="facts" className="wow fadeIn">
         <div className="container">
           <header className="section-header">
-            <h3>Facts</h3>
-            <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque
-            </p>
+            <div className="content-wrapper">
+              <div className="text-content">
+                <h1>Welcome to IYKONS</h1>
+                <h6>
+                  <p>
+                    {/* Your paragraph content */}
+                    <p>
+                      IYKONS offers complete financial, IT, and business support
+                      solutions for companies and individuals across three
+                      continents.
+                    </p>
+                    <p>
+                      Our excellent team of specialists can help you and your
+                      business with your financial, IT, and business support
+                      needs. Our mission is to meet the needs of SMEs under one
+                      roof. We relish the challenges of finding the best
+                      solutions for you, and we thrive on making our clients
+                      happy.
+                    </p>
+                    <p>
+                      To find out more about our services, please do not
+                      hesitate to contact us online or at your nearest local
+                      office.
+                    </p>
+                    <p>We are based in</p>
+                    <ul>
+                      <li>Chessington, Greater London, United Kingdom</li>
+                      <li>Chennai, Tamil Nadu, India</li>
+                      <li>Sydney, Australia</li>
+                    </ul>
+                    <p>
+                      IYKONS is an ACCA-accredited chartered accountancy firm.
+                      We undertake all aspects of Accountancy and Tax work.
+                    </p>
+                    <p>
+                      Contact IYKONS to find out about other bespoke solutions
+                      we offer.
+                    </p>
+                  </p>
+                </h6>
+              </div>
+              <div className="image-content">
+                <img src={image1} alt="" className="img-fluid" />
+              </div>
+            </div>
+            <div className="facts-img"></div>
           </header>
-          <div className="facts-img">
-            <img src={imagefact} alt="" className="img-fluid" />
-          </div>
         </div>
       </section>
       {/* #facts */}
@@ -194,12 +245,11 @@ About Us Section
       <section id="about">
         <div className="container">
           <header className="section-header">
-            <h3>About Us</h3>
+            <h1>IYKONS Products</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              <br></br>
+              <hr></hr>
+              <br></br>
             </p>
           </header>
           <div className="row about-cols">
@@ -212,13 +262,14 @@ About Us Section
                   </div>
                 </div>
                 <h2 className="title">
-                  <a href="#">Our Mission</a>
+                  <a href="#">Fintech Services And Solutions</a>
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod
-                  tempor ut labore et dolore magna aliqua. Ut enim ad minim
-                  veniam, quis nostrud exercitation ullamco laboris nisi ut
-                  aliquip ex ea commodo consequat.
+                  We create new or improve existing financial solutions for our
+                  customers based on our nearly 20 years of experience in
+                  banking and financial software development. We are prepared to
+                  do market research and provide an effective fintech solution
+                  for your company for the right financial management.
                 </p>
               </div>
             </div>
@@ -231,13 +282,15 @@ About Us Section
                   </div>
                 </div>
                 <h2 className="title">
-                  <a href="#">Our Plan</a>
+                  <a href="#">IYConnect</a>
                 </h2>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-                  illo inventore veritatis et quasi architecto beatae vitae
-                  dicta sunt explicabo.
+                  IYCONNECT is a collaborative practice management platform to
+                  manage the workflow, communicate with the team, and deliver
+                  exceptional client work. IYCONNECT brings a total
+                  transformation across the entire practice, allowing any firm
+                  to maximize efficiencies, streamline processes and optimize
+                  the scale.
                 </p>
               </div>
             </div>
@@ -250,13 +303,15 @@ About Us Section
                   </div>
                 </div>
                 <h2 className="title">
-                  <a href="#">Our Vision</a>
+                  <a href="#">IYPay</a>
                 </h2>
                 <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aut odit aut
-                  fugit, sed quia magni dolores eos qui ratione voluptatem sequi
-                  nesciunt Neque porro quisquam est, qui dolorem ipsum quia
-                  dolor sit amet.
+                  HR Software for SMEs that is easy and economical Are you a
+                  small or medium-sized firm seeking an easy-to-use, low-cost HR
+                  Management System? We help you streamline your HR operations
+                  by eliminating the need for time-consuming manual processes
+                  with our simple-to-implement system, leaving you more time to
+                  focus on what matters
                 </p>
               </div>
             </div>
@@ -268,47 +323,70 @@ About Us Section
 Call To Action Section
     ============================*/}
       <section id="call-to-action" className="wow fadeIn">
-        <div className="container text-center">
-          <h3>Call To Action</h3>
-          <p>
-            {" "}
-            Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
-          </p>
-          <a className="cta-btn" href="#">
-            Call To Action
-          </a>
+        <div className="container text-left">
+          <div className="content-wrapper">
+            <div className="text-content">
+              <h3>Our History</h3>
+              <br></br>
+              <h6>
+                <p>
+                  Jey Founded IYKONS in 2008 after observing a significant gap
+                  in the SME market for a one-stop solution for aspiring
+                  business people. The IYKONS organisation and team were created
+                  to address the various challenges that running a business
+                  entails. We have a proven track record of successfully
+                  supporting hundreds of businesses across three continents.
+                </p>
+              </h6>
+              <p>
+                IYKONS manages over 500 portfolios across a variety of sectors,
+                from not-for-profit to aeronautical industries.
+              </p>
+              <p>What Makes Us the Best Choice?</p>
+              <ul>
+                <li>Cost-effective fixed fee services.</li>
+                <li>A wide range of industry expertise</li>
+                <li>Fully accredited and regulated.</li>
+                <li>
+                  We follow strict regulatory standards to safeguard our clients
+                </li>
+                <li>We are focused on customer needs and timely delivery.</li>
+                <li>
+                  Personalised services with laser-focused attention for every
+                  client.
+                </li>
+              </ul>
+              <a className="cta-btn" href="#">
+                Contact US
+              </a>
+            </div>
+            <div className="image-content">
+              <img src={image1} alt="" className="img-fluid" />
+            </div>
+          </div>
         </div>
       </section>
       {/* #call-to-action */}
+
       <section id="skills">
         <div className="container">
           <header className="section-header">
             <h3>Our Skills</h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip
-            </p>
+            <p>fill in the blanks</p>
           </header>
         </div>
       </section>
       {/*==========================
 Services Section
     ============================*/}
+
       <section id="services">
         <div className="container">
           <header className="section-header wow fadeInUp">
-            <h3>Services</h3>
-            <p>
-              Laudem latine persequeris id sed, ex fabulas delectus quo. No vel
-              partiendo abhorreant vituperatoribus, ad pro quaestio laboramus.
-              Ei ubique vivendum pro. At ius nisl accusam lorenta zanos
-              paradigno tridexa panatarel.
-            </p>
+            <h1>Services</h1>
+            <br />
+            <hr />
+            <p>We are offering</p>
           </header>
           <div className="row">
             <div
@@ -319,7 +397,7 @@ Services Section
                 <i className="ion-ios-analytics-outline" />
               </div>
               <h4 className="title">
-                <a href="">Lorem Ipsum</a>
+                <a href="">Accounting & Finance</a>
               </h4>
               <p className="description">
                 Voluptatum deleniti atque corrupti quos dolores et quas
@@ -334,7 +412,7 @@ Services Section
                 <i className="ion-ios-bookmarks-outline" />
               </div>
               <h4 className="title">
-                <a href="">Dolor Sitema</a>
+                <a href="">Technology & Innovation</a>
               </h4>
               <p className="description">
                 Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -349,7 +427,7 @@ Services Section
                 <i className="ion-ios-paper-outline" />
               </div>
               <h4 className="title">
-                <a href="">Sed ut perspiciatis</a>
+                <a href="">Digital Marketing & Branding</a>
               </h4>
               <p className="description">
                 Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -365,7 +443,7 @@ Services Section
                 <i className="ion-ios-speedometer-outline" />
               </div>
               <h4 className="title">
-                <a href="">Magni Dolores</a>
+                <a href="">Business & Personal Finance</a>
               </h4>
               <p className="description">
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa
@@ -381,7 +459,7 @@ Services Section
                 <i className="ion-ios-barcode-outline" />
               </div>
               <h4 className="title">
-                <a href="">Nemo Enim</a>
+                <a href="">Business Support & Consultancy</a>
               </h4>
               <p className="description">
                 At vero eos et accusamus et iusto odio dignissimos ducimus qui
@@ -397,7 +475,7 @@ Services Section
                 <i className="ion-ios-people-outline" />
               </div>
               <h4 className="title">
-                <a href="">Eiusmod Tempor</a>
+                <a href="">IT Infrastructure Management</a>
               </h4>
               <p className="description">
                 Et harum quidem rerum facilis est et expedita distinctio. Nam
@@ -407,6 +485,7 @@ Services Section
           </div>
         </div>
       </section>
+
       {/* #services */}
       {/*==========================
 Team Section
